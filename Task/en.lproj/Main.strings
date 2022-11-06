@@ -1,0 +1,117 @@
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "1sG-z7-05H"; */
+"1sG-z7-05H.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "パスワード："; ObjectID = "2rQ-v4-5LT"; */
+"2rQ-v4-5LT.text" = "パスワード：";
+
+/* Class = "UILabel"; text = "今の科目"; ObjectID = "44F-BB-Yl9"; */
+"44F-BB-Yl9.text" = "今の科目";
+
+/* Class = "UIButton"; normalTitle = "戻る"; ObjectID = "4Og-o7-RJy"; */
+"4Og-o7-RJy.normalTitle" = "戻る";
+
+/* Class = "UILabel"; text = "メールアドレス："; ObjectID = "59g-Ag-MSG"; */
+"59g-Ag-MSG.text" = "メールアドレス：";
+
+/* Class = "UILabel"; text = "パスワード："; ObjectID = "5hv-cN-gKd"; */
+"5hv-cN-gKd.text" = "パスワード：";
+
+/* Class = "UIViewController"; title = "Config"; ObjectID = "9T2-CJ-pdl"; */
+"9T2-CJ-pdl.title" = "Config";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "Aqz-KO-HSf"; */
+"Aqz-KO-HSf.normalTitle" = "登録";
+
+/* Class = "UITabBarItem"; title = "掲示板"; ObjectID = "DV2-wA-zal"; */
+"DV2-wA-zal.title" = "掲示板";
+
+/* Class = "UIViewController"; title = "new_account"; ObjectID = "ExY-cE-CnE"; */
+"ExY-cE-CnE.title" = "new_account";
+
+/* Class = "UILabel"; text = "次の科目"; ObjectID = "I06-fV-IP8"; */
+"I06-fV-IP8.text" = "次の科目";
+
+/* Class = "UIButton"; normalTitle = "通知"; ObjectID = "MoE-is-OGQ"; */
+"MoE-is-OGQ.normalTitle" = "通知";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "NtF-hL-a7G"; */
+"NtF-hL-a7G.title" = "Home";
+
+/* Class = "UIButton"; normalTitle = "変更"; ObjectID = "Q4r-fG-wIa"; */
+"Q4r-fG-wIa.normalTitle" = "変更";
+
+/* Class = "UITabBarItem"; title = "設定"; ObjectID = "Y9u-jr-0dq"; */
+"Y9u-jr-0dq.title" = "設定";
+
+/* Class = "UILabel"; text = "メールアドレス："; ObjectID = "YUi-2C-xm7"; */
+"YUi-2C-xm7.text" = "メールアドレス：";
+
+/* Class = "UITabBarItem"; title = "スケジュール"; ObjectID = "Yqm-rk-ZwY"; */
+"Yqm-rk-ZwY.title" = "スケジュール";
+
+/* Class = "UILabel"; text = "アクセストークン："; ObjectID = "Zf3-np-Rap"; */
+"Zf3-np-Rap.text" = "アクセストークン：";
+
+/* Class = "UIButton"; normalTitle = "削除"; ObjectID = "a66-vR-Ybf"; */
+"a66-vR-Ybf.normalTitle" = "削除";
+
+/* Class = "UILabel"; text = "パスワード再入力："; ObjectID = "b5D-Pj-8A3"; */
+"b5D-Pj-8A3.text" = "パスワード再入力：";
+
+/* Class = "UILabel"; text = "メールアドレス："; ObjectID = "biN-iV-dKa"; */
+"biN-iV-dKa.text" = "メールアドレス：";
+
+/* Class = "UIViewController"; title = "Config"; ObjectID = "dW9-Df-sQC"; */
+"dW9-Df-sQC.title" = "Config";
+
+/* Class = "UIButton"; normalTitle = "設定"; ObjectID = "f3a-YB-r04"; */
+"f3a-YB-r04.normalTitle" = "設定";
+
+/* Class = "UIViewController"; title = "Schedule"; ObjectID = "fIA-y4-0FC"; */
+"fIA-y4-0FC.title" = "Schedule";
+
+/* Class = "UILabel"; text = "今日は○○時○○分〜○○時○○分迄"; ObjectID = "fM8-kf-9J9"; */
+"fM8-kf-9J9.text" = "今日は○○時○○分〜○○時○○分迄";
+
+/* Class = "UIButton"; normalTitle = "登録"; ObjectID = "feX-3X-kki"; */
+"feX-3X-kki.normalTitle" = "登録";
+
+/* Class = "UIButton"; normalTitle = "トークンをコピー"; ObjectID = "gHV-dy-Hpq"; */
+"gHV-dy-Hpq.normalTitle" = "トークンをコピー";
+
+/* Class = "UILabel"; text = "グループを作る"; ObjectID = "itj-1y-Pje"; */
+"itj-1y-Pje.text" = "グループを作る";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "kWj-4J-t2l"; */
+"kWj-4J-t2l.text" = "or";
+
+/* Class = "UIViewController"; title = "Kill"; ObjectID = "lZm-YY-RVr"; */
+"lZm-YY-RVr.title" = "Kill";
+
+/* Class = "UIButton"; normalTitle = "ログアウト"; ObjectID = "rCp-6n-TTe"; */
+"rCp-6n-TTe.normalTitle" = "ログアウト";
+
+/* Class = "UIButton"; normalTitle = "アカウント登録"; ObjectID = "sZ0-Hq-izg"; */
+"sZ0-Hq-izg.normalTitle" = "アカウント登録";
+
+/* Class = "UILabel"; text = "パスワード："; ObjectID = "t59-b2-xah"; */
+"t59-b2-xah.text" = "パスワード：";
+
+/* Class = "UIButton"; accessibilityLabel = "ログイン"; ObjectID = "vZh-xj-8SR"; */
+"vZh-xj-8SR.accessibilityLabel" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "ログイン"; ObjectID = "vZh-xj-8SR"; */
+"vZh-xj-8SR.normalTitle" = "ログイン";
+
+/* Class = "UIButton"; normalTitle = "ゲストとしてログイン"; ObjectID = "wqC-Bf-zrc"; */
+"wqC-Bf-zrc.normalTitle" = "ゲストとしてログイン";
+
+/* Class = "UILabel"; text = "グループに参加"; ObjectID = "z61-3g-yYd"; */
+"z61-3g-yYd.text" = "グループに参加";
+
+/* Class = "UILabel"; text = "掲示板"; ObjectID = "zcp-qe-xSo"; */
+"zcp-qe-xSo.text" = "掲示板";
+
+/* Class = "UIButton"; normalTitle = "削除"; ObjectID = "zrP-jr-kfa"; */
+"zrP-jr-kfa.normalTitle" = "削除";
